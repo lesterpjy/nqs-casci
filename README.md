@@ -1,6 +1,5 @@
 # Artificial Neural Networks Applied as Molecular Wave Function Solvers
-
-### Neural-network quantum state for exact diagonalization in CAS-CI calculations
+## Neural-network quantum state for exact diagonalization in CAS-CI calculations
 ==============================================================
 
 <img src="https://github.com/lesterpjy/nqs_casci/blob/master/img/nqs_.png" width="550">
